@@ -1,6 +1,6 @@
 import "./navbar.css";
 
-const Navbar = () => {
+export const Navbar = () => {
   return (
     <div className="navbar">
         <div className="navContainer">
